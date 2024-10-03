@@ -73,8 +73,8 @@ const config = {
     ({
 
       algolia: {
-        appId: process.env.APPLICATION_ID,                // Your Algolia App ID
-        apiKey: process.env.API_KEY,  // Your Algolia Search-Only API Key
+        appId: 'D78VDF4YK8',                // Your Algolia App ID
+        apiKey: '9792d9b282aca9fd19d802074d1809f9',  // Your Algolia Search-Only API Key
         indexName: 'breezeware',        // Your Algolia Index Name
   
         // Optional: Additional configuration
