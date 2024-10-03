@@ -1,0 +1,27 @@
+{
+  "id": "dynamo-framework/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs/dynamo-framework/congratulations.md",
+  "sourceDirName": "dynamo-framework",
+  "slug": "/dynamo-framework/congratulations",
+  "permalink": "/docs/dynamo-framework/congratulations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamo-framework/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markdown Features",
+    "permalink": "/docs/dynamo-framework/markdown-features"
+  },
+  "next": {
+    "title": "Dynamo AI Module Documentation",
+    "permalink": "/docs/dynamo-framework/Dynamo AI Module Documentation"
+  }
+}

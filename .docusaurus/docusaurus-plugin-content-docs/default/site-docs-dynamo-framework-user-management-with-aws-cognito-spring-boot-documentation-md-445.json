@@ -1,0 +1,24 @@
+{
+  "id": "dynamo-framework/User Management with AWS Cognito - Spring Boot Documentation",
+  "title": "User Management with AWS Cognito - Spring Boot Documentation",
+  "description": "Overview",
+  "source": "@site/docs/dynamo-framework/User Management with AWS Cognito - Spring Boot Documentation.md",
+  "sourceDirName": "dynamo-framework",
+  "slug": "/dynamo-framework/User Management with AWS Cognito - Spring Boot Documentation",
+  "permalink": "/dynamo-docs/docs/dynamo-framework/User Management with AWS Cognito - Spring Boot Documentation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamo-framework/User Management with AWS Cognito - Spring Boot Documentation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dynamo WorkFlow Documentation",
+    "permalink": "/dynamo-docs/docs/dynamo-framework/Dynamo WorkFlow Documentation"
+  },
+  "next": {
+    "title": "Dynamo Templates",
+    "permalink": "/dynamo-docs/docs/category/dynamo-templates"
+  }
+}

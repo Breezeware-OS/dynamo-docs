@@ -1,0 +1,98 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/dynamo-docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/dynamo-docs/docs",
+          "mainDocId": "dynamo-framework/Dynamo AI Module Documentation",
+          "docs": [
+            {
+              "id": "dynamo-framework/Dynamo AI Module Documentation",
+              "path": "/dynamo-docs/docs/dynamo-framework/Dynamo AI Module Documentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dynamo-framework/Dynamo Auth Module",
+              "path": "/dynamo-docs/docs/dynamo-framework/Dynamo Auth Module",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dynamo-framework/Dynamo Docs with Spring Boot using CommonMark",
+              "path": "/dynamo-docs/docs/dynamo-framework/Dynamo Docs with Spring Boot using CommonMark",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dynamo-framework/Dynamo Form Builder Documentation",
+              "path": "/dynamo-docs/docs/dynamo-framework/Dynamo Form Builder Documentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dynamo-framework/Dynamo Generics CRUD Module Documentation (1)",
+              "path": "/dynamo-docs/docs/dynamo-framework/Dynamo Generics CRUD Module Documentation (1)",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dynamo-framework/Dynamo Image_ Image Size Conversion Using Imgscalr",
+              "path": "/dynamo-docs/docs/dynamo-framework/Dynamo Image_ Image Size Conversion Using Imgscalr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dynamo-framework/Dynamo Utils Module Documentation",
+              "path": "/dynamo-docs/docs/dynamo-framework/Dynamo Utils Module Documentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dynamo-framework/Dynamo WorkFlow Documentation",
+              "path": "/dynamo-docs/docs/dynamo-framework/Dynamo WorkFlow Documentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dynamo-framework/User Management with AWS Cognito - Spring Boot Documentation",
+              "path": "/dynamo-docs/docs/dynamo-framework/User Management with AWS Cognito - Spring Boot Documentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dynamo-templates/Dynamo Forms Template Setup Guide",
+              "path": "/dynamo-docs/docs/dynamo-templates/Dynamo Forms Template Setup Guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dynamo-templates/Dynamo Pages Template Setup Guide",
+              "path": "/dynamo-docs/docs/dynamo-templates/Dynamo Pages Template Setup Guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/dynamo-docs/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/dynamo-framework",
+              "path": "/dynamo-docs/docs/category/dynamo-framework",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/dynamo-templates",
+              "path": "/dynamo-docs/docs/category/dynamo-templates",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/dynamo-docs/docs/category/dynamo-framework",
+                "label": "Dynamo Framework"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

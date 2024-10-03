@@ -1,0 +1,24 @@
+{
+  "id": "dynamo-framework/Dynamo Image_ Image Size Conversion Using Imgscalr",
+  "title": "Dynamo Image: Image Size Conversion Using Imgscalr",
+  "description": "Overview",
+  "source": "@site/docs/dynamo-framework/Dynamo Image_ Image Size Conversion Using Imgscalr.md",
+  "sourceDirName": "dynamo-framework",
+  "slug": "/dynamo-framework/Dynamo Image_ Image Size Conversion Using Imgscalr",
+  "permalink": "/dynamo-docs/docs/dynamo-framework/Dynamo Image_ Image Size Conversion Using Imgscalr",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dynamo-framework/Dynamo Image_ Image Size Conversion Using Imgscalr.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dynamo Generics CRUD Module Documentation",
+    "permalink": "/dynamo-docs/docs/dynamo-framework/Dynamo Generics CRUD Module Documentation (1)"
+  },
+  "next": {
+    "title": "Dynamo Utils Module Documentation",
+    "permalink": "/dynamo-docs/docs/dynamo-framework/Dynamo Utils Module Documentation"
+  }
+}

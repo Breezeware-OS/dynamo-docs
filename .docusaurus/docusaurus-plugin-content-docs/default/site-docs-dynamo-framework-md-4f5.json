@@ -1,0 +1,20 @@
+{
+  "id": "Dynamo Framework",
+  "title": "Dynamo Framework",
+  "description": "\\",
+  "source": "@site/docs/Dynamo Framework.md",
+  "sourceDirName": ".",
+  "slug": "/Dynamo Framework",
+  "permalink": "/docs/Dynamo Framework",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Dynamo Framework.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User Management with AWS Cognito - Spring Boot Documentation",
+    "permalink": "/docs/dynamo-framework/User Management with AWS Cognito - Spring Boot Documentation"
+  }
+}
