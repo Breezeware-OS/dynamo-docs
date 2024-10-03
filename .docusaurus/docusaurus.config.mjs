@@ -7,7 +7,7 @@ export default {
   "title": "Dynamo",
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
-  "url": "https://ganesh-moorthy-5999.github.io",
+  "url": "https://breezeware-os.github.io",
   "baseUrl": "/dynamo-docs/",
   "organizationName": "facebook",
   "projectName": "dynamo",
@@ -53,7 +53,7 @@ export default {
     "algolia": {
       "appId": "D78VDF4YK8",
       "apiKey": "9792d9b282aca9fd19d802074d1809f9",
-      "indexName": "dynamo",
+      "indexName": "breezeware",
       "contextualSearch": true,
       "searchParameters": {},
       "searchPagePath": "search",

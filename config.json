@@ -1,10 +1,10 @@
 {
-  "index_name": "dynamo",
+  "index_name": "breezeware",
   "start_urls": [
-    "https://ganesh-moorthy-5999.github.io/dynamo-docs-site-poc/"
+    "https://breezeware-os.github.io/dynamo-docs/"
   ],
   "sitemap_urls": [
-    "https://ganesh-moorthy-5999.github.io/dynamo-docs-site-poc/sitemap.xml"
+    "https://breezeware-os.github.io/dynamo-docs/sitemap.xml"
   ],
   "sitemap_alternate_links": true,
   "stop_urls": [

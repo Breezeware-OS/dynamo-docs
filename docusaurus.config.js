@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://ganesh-moorthy-5999.github.io',
+  url: 'https://breezeware-os.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/dynamo-docs',
@@ -73,9 +73,9 @@ const config = {
     ({
 
       algolia: {
-        appId: 'D78VDF4YK8',                // Your Algolia App ID
-        apiKey: '9792d9b282aca9fd19d802074d1809f9',  // Your Algolia Search-Only API Key
-        indexName: 'dynamo',        // Your Algolia Index Name
+        appId: process.env.APPLICATION_ID,                // Your Algolia App ID
+        apiKey: process.env.API_KEY,  // Your Algolia Search-Only API Key
+        indexName: 'breezeware',        // Your Algolia Index Name
   
         // Optional: Additional configuration
         contextualSearch: true,               // Whether to search in the context of versioned docs.
