@@ -73,9 +73,9 @@ const config = {
     ({
 
       algolia: {
-        appId: 'D78VDF4YK8',                // Your Algolia App ID
-        apiKey: '9792d9b282aca9fd19d802074d1809f9',  // Your Algolia Search-Only API Key
-        indexName: 'breezeware',        // Your Algolia Index Name
+        appId: '',                // Your Algolia App ID
+        apiKey: '',  // Your Algolia Search-Only API Key
+        indexName: '',        // Your Algolia Index Name
   
         // Optional: Additional configuration
         contextualSearch: true,               // Whether to search in the context of versioned docs.
